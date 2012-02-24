@@ -1,6 +1,6 @@
 Name:           puias-release
 Version:        6
-Release:        1.R
+Release:        2.R
 Summary:        PUIAS Linux repository
 
 Group:          System Environment/Base
